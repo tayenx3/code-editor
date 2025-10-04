@@ -2,6 +2,9 @@
 name = "keystone-editor-new"
 version = "0.1.0"
 edition = "2024"
+authors = ["tayenx3 kontajiousgd00@gmail.com"]
+description = "A code editor for a game engine im working on"
+license = "MIT"
 
 [dependencies]
 sdl2 = { "version" = "0.38.0", "features" = ["ttf"] }
